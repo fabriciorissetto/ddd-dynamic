@@ -40,6 +40,10 @@ So let's go!
 
 [Arkency blog and newsletter](http://blog.arkency.com/) - They write about DDD, Event Sourcing and testing in Ruby/Rails a lot. Not just plain text, but code and even webinars occasionally.
 
+[Hanami em Production – 2 anos depois](https://diariodebordo.creditas.com.br/hanami-em-production-2-anos-depois-parte-1/): post in Portuguese telling the experience of [Creditas](https://www.creditas.com.br/) at building and maintaining its core app (60k lines of code + 2m request/month) with DDD in Ruby using Hanami framework.
+
+https://diariodebordo.creditas.com.br/hanami-em-production-2-anos-depois-parte-2/
+
 ## Talks, videos
 [Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
 
